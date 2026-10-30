@@ -1,0 +1,28 @@
+{
+  "project": "crispr-ai-pytorch",
+  "packaging_note": "Original source downloaded from the authenticated Kaggle account; code not rewritten. Documentation added for portfolio organization. Downloaded Kaggle notebooks generally omit executed outputs. Last run timestamps are source metadata, not authorship or publication dates.",
+  "sources": [
+    {
+      "file": "notebooks/science-fair-states-torch.ipynb",
+      "source_url": "https://www.kaggle.com/code/thorballer/science-fair-states-torch",
+      "source_title": "science-fair-states-torch",
+      "source_id": 106681710,
+      "last_run_time": "2026-02-18 03:44:52.963000",
+      "original_sha256": "972859ead601fb7bb42883eca0018241cbfe3c86f2944c28830b64bbe3500bc7",
+      "published_sha256": "972859ead601fb7bb42883eca0018241cbfe3c86f2944c28830b64bbe3500bc7",
+      "redactions": [],
+      "executed_outputs_present": false
+    },
+    {
+      "file": "notebooks/multi-gpu-gene-dataset-parsing.ipynb",
+      "source_url": "https://www.kaggle.com/code/thorballer/multi-gpu-gene-dataset-parsing",
+      "source_title": "Multi GPU gene dataset parsing",
+      "source_id": 93953004,
+      "last_run_time": "2025-12-01 02:36:01.263000",
+      "original_sha256": "b2eb6a3f2e750a9a4d0cbbd94618e77fa9d2cbc562249ad1b21cd8f07bc13eb4",
+      "published_sha256": "b2eb6a3f2e750a9a4d0cbbd94618e77fa9d2cbc562249ad1b21cd8f07bc13eb4",
+      "redactions": [],
+      "executed_outputs_present": false
+    }
+  ]
+}
