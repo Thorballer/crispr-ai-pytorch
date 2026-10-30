@@ -29,6 +29,6 @@ For local use, install `requirements.txt` and adapt `/kaggle/input` paths. Depen
 
 These exports have no saved execution outputs. Training was not rerun, so this archive reports no benchmark scores.
 
-Daniel Goldberg's Kaggle notebooks are preserved with source links and hashes in [PROVENANCE.json](PROVENANCE.json). Documentation was added for this archive.
+Daniel Goldberg's Kaggle notebooks have source links and hashes in [PROVENANCE.json](PROVENANCE.json). Comments and formatting were cleaned up without changing executable logic or saved outputs; unedited copies are linked in the provenance record.
 
-Original comments, credits, and tutorial links are retained. Datasets and dependencies have their own licenses; no new blanket license is assigned. Architecture reference: [TensorFlow Transformer tutorial](https://www.tensorflow.org/text/tutorials/transformer).
+Credits and tutorial links are retained. Datasets and dependencies have their own licenses; no new blanket license is assigned. Architecture reference: [TensorFlow Transformer tutorial](https://www.tensorflow.org/text/tutorials/transformer).

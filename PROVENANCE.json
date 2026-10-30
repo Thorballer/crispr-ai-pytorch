@@ -1,6 +1,6 @@
 {
   "project": "crispr-ai-pytorch",
-  "packaging_note": "Original source downloaded from the authenticated Kaggle account; code not rewritten. Documentation added for portfolio organization. Downloaded Kaggle notebooks generally omit executed outputs. Last run timestamps are source metadata, not authorship or publication dates.",
+  "packaging_note": "Original source and saved outputs retained in the pre-cleanup Git history and linked sources. Published notebooks have comment and formatting cleanup only; executable ASTs, outputs, metadata, and cell order were checked unchanged. Training was not rerun.",
   "sources": [
     {
       "file": "notebooks/science-fair-states-torch.ipynb",
@@ -9,9 +9,12 @@
       "source_id": 106681710,
       "last_run_time": "2026-02-18 03:44:52.963000",
       "original_sha256": "972859ead601fb7bb42883eca0018241cbfe3c86f2944c28830b64bbe3500bc7",
-      "published_sha256": "972859ead601fb7bb42883eca0018241cbfe3c86f2944c28830b64bbe3500bc7",
+      "published_sha256": "f690dfe0ac4b0927741dae64fa2bb23c6a8526af0a401c07eb3542cefaf59165",
       "redactions": [],
-      "executed_outputs_present": false
+      "executed_outputs_present": false,
+      "pre_cleanup_commit": "ae81f2b4918e1c98f0def1997175cef58efd4235",
+      "pre_cleanup_url": "https://github.com/Thorballer/crispr-ai-pytorch/blob/ae81f2b4918e1c98f0def1997175cef58efd4235/notebooks/science-fair-states-torch.ipynb",
+      "presentation_edits": "Comments and whitespace only; executable AST and saved outputs unchanged."
     },
     {
       "file": "notebooks/multi-gpu-gene-dataset-parsing.ipynb",
@@ -20,9 +23,12 @@
       "source_id": 93953004,
       "last_run_time": "2025-12-01 02:36:01.263000",
       "original_sha256": "b2eb6a3f2e750a9a4d0cbbd94618e77fa9d2cbc562249ad1b21cd8f07bc13eb4",
-      "published_sha256": "b2eb6a3f2e750a9a4d0cbbd94618e77fa9d2cbc562249ad1b21cd8f07bc13eb4",
+      "published_sha256": "b182b8cb2592134a1b05219c51eb889ae8bd643aeda051213fdd7695222926b7",
       "redactions": [],
-      "executed_outputs_present": false
+      "executed_outputs_present": false,
+      "pre_cleanup_commit": "ae81f2b4918e1c98f0def1997175cef58efd4235",
+      "pre_cleanup_url": "https://github.com/Thorballer/crispr-ai-pytorch/blob/ae81f2b4918e1c98f0def1997175cef58efd4235/notebooks/multi-gpu-gene-dataset-parsing.ipynb",
+      "presentation_edits": "Comments and whitespace only; executable AST and saved outputs unchanged."
     }
   ]
 }
